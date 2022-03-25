@@ -1,0 +1,30 @@
+{
+  "name": "coolicons-react",
+  "version": "0.0.0",
+  "description": "coolicons for react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BuiltbyGit/react-coolicons.git"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "react",
+    "coolicons",
+    "react",
+    "coolicons",
+    "coolicons",
+    "react",
+    "coolicons.cool"
+  ],
+  "author": "Georgie Nwankwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuiltbyGit/react-coolicons/issues"
+  },
+  "homepage": "https://github.com/BuiltbyGit/react-coolicons#readme"
+}
