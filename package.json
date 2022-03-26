@@ -12,7 +12,6 @@
     "release": "run-s build np"
   },
   "files": [
-    "outline/",
     "react/"
   ],
   "peerDependencies": {
