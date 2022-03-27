@@ -1,6 +1,6 @@
 {
   "name": "coolicons-react",
-  "version": "0.0.2-0",
+  "version": "1.0.0.0",
   "description": "coolicons for react projects",
   "main": "react/index.js",
   "scripts": {
@@ -12,7 +12,8 @@
     "release": "run-s build np"
   },
   "files": [
-    "react/"
+    "react/",
+    "src/outline"
   ],
   "peerDependencies": {
     "react": ">= 16"
