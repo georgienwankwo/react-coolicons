@@ -3,6 +3,8 @@ module.exports = {
   entry: "./index.js",
   output: {
     path: path.resolve(__dirname, 'react'),
+    libraryTarget: 'umd',
+    filename: "index.js",
   },
   mode: 'development',
   module: {
@@ -17,7 +19,8 @@ module.exports = {
               ['@babel/preset-env', { targets: "defaults" }]
             ]
           }
-        }
+        },
+        type: "javascript/auto",
       }
     ]
   }
